@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Subject-Embedded%20Systems-DC143C?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Microcontroller-ESP32-4A148C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Simulation-Proteus-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PCB-Vero%20Board-3B82F6?style=for-the-badge" />
 </div>
 
 <div align="center">
